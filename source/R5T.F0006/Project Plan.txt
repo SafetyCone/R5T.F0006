@@ -1,3 +1,10 @@
 R5T.F0006 - Generation, initial, parse functionality for Roslyn syntax elements.
 
-GOALS:
+
+Allowed Dependencies:
+
+* R5T.F0000 - .NET C# standard library functionality.
+* R5T.F0003 - Roslyn syntax functionality (non-generation).
+* R5T.F0005 - 
+* R5T.L0011 - Microsoft.CodeAnalysis package selector.
+* R5T.T0132 - FunctionalityMarker attribute and interface.
